@@ -34,8 +34,8 @@ class Console(QtGui.QMainWindow):
         self.button.clicked.connect(self.createUser)
         self.setWindowTitle("Client Console")
         self.CLIENT_WIN = []
-        self.setWindowFlags(QtCore.Qt.FramelessWindowHint)
-        self.setAttribute(QtCore.Qt.WA_TranslucentBackground, True)
+        # self.setWindowFlags(QtCore.Qt.FramelessWindowHint)
+        # self.setAttribute(QtCore.Qt.WA_TranslucentBackground, True)
         css = """
         .QWidget {
             border: 2px solid black;
