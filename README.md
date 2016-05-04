@@ -1,5 +1,6 @@
 # Encrypted-Chat-Client
 A Chat Client with Group and Secret Chat( based on Encryption) options. Two Layers of Encryption have been used.
+For Symmetric Encryption BREA has been used and for Asymmetric Encryption RSA has been used.
 
 To run the project, following are the steps required:
 * Copy the required files ( Server.py and format.py for Server and BREA.py, RSA.py, MathBox.py, Client.py and ClientConsole.py for Client ).
