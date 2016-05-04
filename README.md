@@ -1,5 +1,6 @@
 # Encrypted-Chat-Client
-A Chat Client with Group and Secret Chat( based on Encryption) options. Two Layers of Encryption have been used.
+A Chat Client with Group and Secret Chat( based on Encryption ) options. Two Layers of Encryption have been used.
+
 For Symmetric Encryption BREA has been used and for Asymmetric Encryption RSA has been used.
 
 To run the project, following are the steps required:
