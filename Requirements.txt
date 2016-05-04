@@ -1,0 +1,4 @@
+Following are required to run the project:
+
+1. Python 2.7
+2. PyQt4 
